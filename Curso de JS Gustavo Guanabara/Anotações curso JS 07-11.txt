@@ -1,0 +1,27 @@
+Operador Identidade: 
+
+Sinal de === verifica o tipo.
+
+5 === '5' false
+5 === 5 true
+
+Sinal de !== (diferente que verifica o tipo).
+
+Ordem de Precedência: 
+1º Operadores aritméticos
+2º Operadores relacionais
+3º Operadores lógicos (1º !, 2º && e 3º ||)
+
+
+--------------------///------------------------
+
+innerText = "Altera este texto"
+innerHtml = "Altera este texto e formatação"
+
+addEventListener = "Adiciona evento, mesma coisa que colocar no html"
+
+
+
+
+
+
